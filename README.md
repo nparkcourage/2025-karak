@@ -1,5 +1,23 @@
 # ChatGPT 활용
 
+## 참고 URL
+
+### LaTex 사용법  
+https://trivia-starage.tistory.com/30  
+https://seunghan96.github.io/ml/latex  
+
+### LaTex 온라인 편집기
+https://arachnoid.com/latex
+
+### KMO(한국수학올림피아드) 기출 문제
+https://www.kmo.or.kr/kmo/sub07.html
+
+### KMO 기출문제 2024 중학 풀이 사이트
+https://m.blog.naver.com/yh6613/223557460990?recommendTrackingCode=2
+https://m.blog.naver.com/yh6613/223605620473
+
+
+
 ## 프롬프트
 
 ### 구조화된 프롬프트 예
