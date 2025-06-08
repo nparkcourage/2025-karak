@@ -2,6 +2,10 @@
 
 ## 참고 URL
 
+### 코드업 파이썬 문제 등
+https://codeup.kr/problemsetsol.php?psid=33
+
+
 ### LaTex 사용법  
 https://trivia-starage.tistory.com/30  
 https://seunghan96.github.io/ml/latex  
