@@ -3,7 +3,9 @@
 ## 참고 URL
 
 ### 코드업 파이썬 문제 등
-https://codeup.kr/problemsetsol.php?psid=33
+https://codeup.kr/problemsetsol.php?psid=33  
+https://codeup.kr/problem.php?id=4564
+
 
 
 ### LaTex 사용법  
